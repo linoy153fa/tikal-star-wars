@@ -1,0 +1,19 @@
+body{
+  padding:10px
+}
+.table {
+  
+  border-collapse: collapse;
+  margin-bottom: 100px;
+  border:0.5px solid rgb(92, 125, 196)
+}
+tr{
+  height: 60px;
+}
+td{
+  padding:3px
+
+}
+span{
+  margin-left: 3px;
+}
